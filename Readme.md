@@ -1,0 +1,1 @@
+[krish github repo](https://github.com/krishnaik06/Updated-Langchain/blob/main/requirements.txt)
